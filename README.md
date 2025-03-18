@@ -2,8 +2,6 @@
   <img height="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRuZXd1aXJjbzB3cDJoamJ5dnpvMHhvbmUxc2htNXVseGxpYWU3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif"  />
 </div>
 
-<br clear="both">
-
 <h1 align="left">Hi, there! I'm Nirvan Adam👋</h1>
 
 ###
